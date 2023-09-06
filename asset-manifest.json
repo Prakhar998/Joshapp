@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/joshapp/static/css/main.a508eec7.css",
+    "main.js": "/joshapp/static/js/main.68de7e03.js",
+    "static/js/787.172b0736.chunk.js": "/joshapp/static/js/787.172b0736.chunk.js",
+    "index.html": "/joshapp/index.html",
+    "main.a508eec7.css.map": "/joshapp/static/css/main.a508eec7.css.map",
+    "main.68de7e03.js.map": "/joshapp/static/js/main.68de7e03.js.map",
+    "787.172b0736.chunk.js.map": "/joshapp/static/js/787.172b0736.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a508eec7.css",
+    "static/js/main.68de7e03.js"
+  ]
+}
